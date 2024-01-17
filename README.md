@@ -23,11 +23,11 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://drive.google.com/file/d/1geeBgA6HSD4mIds9HjsK8OjsAQ138pM5/view?usp=sharing' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/BhusalC/web102_prework/blob/main/video_walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 
-GIF created with cloudconvert.com
+GIF created with www.veed.io after recording the screen using MacOS's default recorder.
 
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
@@ -36,9 +36,7 @@ GIF created with cloudconvert.com
 
 ## Notes
 
-Describe any challenges encountered while building the app.
-
-N/A
+None
 
 ## License
 
